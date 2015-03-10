@@ -8,10 +8,10 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 //testupdate
-
+//szc,
 /**
  * ****************************************
-	 * 类描述： 持久化数据层
+	 * 类描述： 持久化数据
 	 * 类名称：AppSharedPref  
  	 * @version: 1.0
 	 * @author: why
