@@ -7,7 +7,7 @@ import com.szc.fast_express_system.entities.LoginData;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
-
+//testupdate
 
 /**
  * ****************************************
@@ -28,7 +28,7 @@ public class AppSharedPref {
 	private static AppSharedPref asp = null;
 	
 	/**
-	 * æ„é? å‡½æ•?.
+	 * æ„ï¿½?ï¿½å‡½ï¿½?.
 	 */
 	private AppSharedPref(Context context) {
 		if (sharedPreferences == null) {
@@ -38,7 +38,7 @@ public class AppSharedPref {
 	}
 
 	/**
-	 * å•æ?å®ä¾?
+	 * å•ï¿½?ï¿½å®ï¿½?
 	 */
 	public static AppSharedPref getInstance(Context context) {
 		if (asp == null) {
